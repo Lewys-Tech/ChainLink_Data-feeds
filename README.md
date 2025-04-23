@@ -1,5 +1,13 @@
 # MyToken & DynamicStake Contracts
+Chainlink is a decentralized oracle network that enables smart contracts on blockchains to securely access and interact with real-world data, APIs, and external systems. Because blockchains by design can’t fetch off-chain information on their own, Chainlink “bridges” this gap by using a network of independent node operators (or “oracles”) to:
 
+Fetch data from multiple external sources (e.g., price feeds, IoT devices, APIs)
+
+Verify and aggregate that data off-chain
+
+Deliver tamper-resistant inputs on-chain for consumption by smart contracts
+
+This end-to-end decentralization prevents a single point of failure or data manipulation that centralized oracles would introduce
 This repository contains two Solidity smart contracts:
 
 1. **MyToken**: An ERC20 token with owner-controlled minting and permit functionality.
