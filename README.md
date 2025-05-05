@@ -1,3 +1,4 @@
+# ChainLink The backbone of blockchain
 # MyToken & DynamicStake Contracts
 Chainlink is a decentralized oracle network that enables smart contracts on blockchains to securely access and interact with real-world data, APIs, and external systems. Because blockchains by design can’t fetch off-chain information on their own, Chainlink “bridges” this gap by using a network of independent node operators (or “oracles”) to:
 
